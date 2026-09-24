@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：golang k8s 滚动更新回滚策略
+简介：golang 云存储 s3 协议对象存储，go s3 客户端，兼容 minio 阿里云 oss，实现文件上传下载签名访问。
+ | 原文链接：http://EiCg.gbmtuh.asia
+
+原标题：golang 系统设计第三方接口调用封装思路
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：http://Ae8c.gbmtuh.asia
+
+原标题：批量异步处理系统业务落地
+简介：开源源码阅读拆解学习思路，分享阅读大型开源项目方法，从入口文件逐层拆解模块，降低源码学习门槛。
+ | 原文链接：http://6a4Y.gbmtuh.asia
+
+原标题：golang 系统设计 rest http 方法使用原则
+简介：golang regexp 正则捕获分组提取数据，正则捕获分组提取子匹配内容，拿到需要业务字段。
+ | 原文链接：http://2W0U.gbmtuh.asia
+
+原标题：零基础理解幂等性基础概念与场景
+简介：golang redis list 队列简易消息队列，利用 Redis List 实现简易队列，完成任务入队消费基础能力。
+ | 原文链接：http://ySwQ.gbmtuh.asia
+
+原标题：Practice：实现文件监控自动重启开发服务工具
+简介：golang sync.WaitGroup 协程等待控制，WaitGroup 控制一组协程等待全部执行完成，完成批量协程任务调度。
+ | 原文链接：http://usMq.gbmtuh.asia
+
+原标题：从零学习简单分页逻辑实现思路
+简介：golang grpc 错误状态码标准化，grpc 标准化错误返回，定义业务错误码，客户端解析处理业务异常。
+ | 原文链接：http://KoIm.gbmtuh.asia
+
+原标题：设计思考：防雪崩，系统过载保护架构设计
+简介：golang 开发环境快速搭建指南，快速完成 Golang 开发环境配置，工具链安装，环境变量设置，准备开发。
+ | 原文链接：http://GkEi.gbmtuh.asia
+
+原标题：复盘总结：系统压测报告模板与分析思路
+简介：golang kafka 同步异步消费对比，对比 Kafka 同步消费异步消费，分析优缺点，业务选型参考。
+ | 原文链接：http://CgAe.gbmtuh.asia
+
+原标题：方案对比：缓存更新策略Cache‑Aside读写模式
+简介：nodejs 读取大文件 csv 处理方案，Node 流式读取超大 CSV 文件，逐行解析，避免一次性加载全部文件。
+ | 原文链接：http://8c6a.gbmtuh.asia
+
+原标题：Git 分支切换合并删除完整操作
+简介：接口压测定位系统性能瓶颈，使用压测工具对接口施压，观察指标，定位系统性能瓶颈点。
+ | 原文链接：http://4Y2W.gbmtuh.asia
+
+原标题：golang 系统设计故障定位排查通用步骤方法论
+简介：express 请求参数校验处理，接入参数校验库，校验入参，拦截非法参数，提前拦截错误请求。
+ | 原文链接：http://0UyS.gbmtuh.asia
+
+原标题：golang 系统设计大表加索引线上执行方案
+简介：golang fasthttp 高性能 http 库使用，fasthttp 高性能 http 实现，适合超高 QPS 场景，对比 net/http 差异。
+ | 原文链接：http://wQuO.gbmtuh.asia
+
+原标题：零基础理解模块化与组件化基础思想
+简介：golang go 优雅处理信号丢失场景，处理信号丢失、信号被忽略，保障程序可以正常接收终止信号。
+ | 原文链接：http://sMqK.gbmtuh.asia
+
+原标题：坑点：gitpull冲突处理不当造成代码丢失
+简介：golang go mod graph 查看依赖关系，go mod graph 打印依赖树，定位间接依赖来源，解决版本冲突。
+ | 原文链接：http://oImG.gbmtuh.asia
+
+原标题：golang 系统设计单元测试 mock 外部依赖技巧
+简介：动态定时任务业务调度实现，实现可以动态增删启停定时任务，无需重启服务调整调度任务。
+ | 原文链接：http://EiCg.gbmtuh.asia
+
+原标题：Practice：实现定时任务动态启停管理接口
+简介：开源项目本地运行排错完整清单，汇总开源项目拉取后运行失败各类问题，给出排查思路，快速解决本地启动异常。
+ | 原文链接：http://Ae8c.gbmtuh.asia
+
+原标题：golang docker 部署 mongodb 开发环境
+简介：golang 跨平台系统差异处理方案，处理 windows linux mac 路径、信号、文件权限差异，代码跨平台兼容。
+ | 原文链接：http://6a4Y.gbmtuh.asia
+
+原标题：golang cpu pprof 性能分析实操
+简介：服务启动依赖顺序配置正确，配置服务启动依赖关系，保证依赖服务就绪之后再启动当前业务服务。
+ | 原文链接：http://2W0U.gbmtuh.asia
+
+原标题：排错：前端sourcemap错误线上无法定位报错
+简介：golang minio 私有对象存储开发，minio s3 对象存储，bucket 管理，文件上传下载权限设置。
+ | 原文链接：http://xRvP.gbmtuh.asia
+
+原标题：调优方案：MySQL缓冲池参数性能调优实践
+简介：系统时间同步定时任务偏移，同步服务器系统时间，防止时间偏移，避免定时任务执行时间错乱。
+ | 原文链接：http://tNrL.gbmtuh.asia
+
+原标题：安全复盘：业务登录暴力破解防护完整方案
+简介：Fork 开源项目同步上游代码，Fork 开源仓库之后，配置上游源，同步官方最新代码，保持代码版本对齐。
+ | 原文链接：http://pJnH.gbmtuh.asia
+
+原标题：安全复盘：Redis命令注入风险防护手段
+简介：golang 模板函数自定义拓展，自定义 template 模板函数，在 html 模板调用自定义逻辑处理数据。
+ | 原文链接：http://lFjD.gbmtuh.asia
+
+原标题：golang 系统设计开源项目自动化 ci 配置示例
+简介：golang 分布式唯一 id 多种方案对比，雪花、redis、uuid 对比各方案优缺点，指导业务选型使用。
+ | 原文链接：http://hBf9.gbmtuh.asia
+
+原标题：优化实践：业务定时任务错开高峰避免资源争抢
+简介：golang 半关闭 tcp 连接 shutdown，tcp 连接 shutdown 半关闭，单向关闭读或者写，理解 tcp 关闭流程。
+ | 原文链接：http://d7b5.gbmtuh.asia
+
+原标题：golang 系统设计定时任务失败重试告警实现
+简介：线程池拒绝策略任务丢失防护，合理设置线程池拒绝策略，处理任务队列满场景，避免业务任务直接丢失。
+ | 原文链接：http://3X1V.gbmtuh.asia
+
+原标题：Security：文件上传漏洞攻击面完整防护方案
+简介：GET POST 接口请求参数处理，讲解两种请求方式参数传递区别，演示参数接收、解析、校验，适配不同接口调用场景。
+ | 原文链接：http://zTxR.gbmtuh.asia
+
+原标题：入门实践：简单批量处理脚本编写
+简介：golang grpc 负载均衡客户端实现，grpc 客户端负载均衡，轮询随机权重，分发请求到多个服务实例。
+ | 原文链接：http://vPtN.gbmtuh.asia
+
+原标题：线程调度优化减少上下文切换
+简介：Git 子模块更新代码不全修复，正确更新 Git 子模块，拉取子模块完整代码，解决子模块目录为空问题。
+ | 原文链接：http://rLpJ.gbmtuh.asia
+
+原标题：nodejs 读取大文件 csv 处理方案
+简介：golang errgroup 协程组错误处理，errgroup 捕获协程错误，context 取消剩余协程，简化并发任务。
+ | 原文链接：http://nHlF.gbmtuh.asia
+
+原标题：MySQL 慢查询索引优化实战
+简介：golang 日志按日期切割实现方案，实现日志文件按天切割，自动归档旧日志，防止单个日志文件过大。
+ | 原文链接：http://jDhB.gbmtuh.asia
+
+原标题：golang 系统设计 rest 错误返回格式统一规范
+简介：golang redis stream 消息队列实战，redis stream 实现可靠消息队列，消费组、ack 确认，消息不丢失。
+ | 原文链接：http://f9d7.gbmtuh.asia
+
+原标题：数据库连接及时关闭连接泄漏
+简介：golang gorm 批量插入性能调优，GORM 批量插入优化，调整批次大小，提升大量数据插入数据库速度。
+ | 原文链接：http://b5Z3.gbmtuh.asia
+
+原标题：golang github actions 完整工作流示例
+简介：数值 key 浮点匹配异常规避，避免浮点数作为 Redis 等存储的 key，防止精度问题引发 key 匹配失败。
+ | 原文链接：http://X1Vz.gbmtuh.asia
+
+原标题：Hands‑on：模板渲染引擎最小原型实现
+简介：golang net/http 超时全套配置，完整配置 Go HTTP 服务读写空闲超时，全方位防止请求挂住。
+ | 原文链接：http://TxRP.gbmtuh.asia
+
+原标题：安全实践：防止重放攻击接口签名方案
+简介：golang ctx 关闭之后资源释放，context 取消后，监听 Done ()，释放 goroutine 网络 IO 资源。
+ | 原文链接：http://tNrL.gbmtuh.asia
+
+原标题：Redis 大 key 拆分集群卡顿解决
+简介：golang 性能压测 wr 工具实操指南，wr 压测工具对 Go 接口压测，观察 QPS 延迟，定位接口性能瓶颈。
+ | 原文链接：http://pJnH.gbmtuh.asia
+
+原标题：golang kafka 监控指标简单梳理
+简介：golang wasm 浏览器 js 交互，go wasm 与 js 互相调用，浏览器端 go 程序操作 dom 调用 js 函数。
+ | 原文链接：http://lFjD.gbmtuh.asia
+
+原标题：golang zap 日志按日期切割方案
+简介：golang 静态编译缩小镜像体积，Go 程序静态编译，不依赖系统库，产出单二进制文件，缩小镜像。
+ | 原文链接：http://hBf9.gbmtuh.asia
+
+原标题：golang 优雅处理数据库事务
+简介：golang gorm 软删除实现逻辑，Gorm 开启软删除，删除数据仅标记，数据保留可恢复，满足业务数据留存。
+ | 原文链接：http://d7b5.gbmtuh.asia
+
+
+二、踩坑排错｜Troubleshooting
+原标题：避坑：请求未设置read超时无限挂起连接
+简介：golang http 重定向策略自定义，CheckRedirect 自定义重定向逻辑，限制重定向次数，防止死循环。
+ | 原文链接：http://Z3W0.gbmtuh.asia
+
+原标题：golang k8s devops 流水线简单思路
+简介：golang 雪花 id 重复问题排查，排查雪花算法 ID 重复问题，时钟回拨、机器 ID 冲突，给出修复方案。
+ | 原文链接：http://UySw.gbmtuh.asia
+
+原标题：golang docker 网络模式桥接 host
+简介：手写简易 ORM 理解对象映射，手写极简 ORM 示例，理解对象与数据库表字段映射底层原理。
+ | 原文链接：http://QuOs.gbmtuh.asia
+
+原标题：前端图片懒加载性能优化
+简介：布隆过滤器数据高效去重实现，实现布隆过滤器组件，用于海量数据去重，节省大量内存空间。
+ | 原文链接：http://MqKo.gbmtuh.asia
+
+原标题：golang redis 缓存击穿防护实现
+简介：对象存储上传下载权限实操，演示对象存储文件上传、下载、访问权限设置，适配业务文件存储场景。
+ | 原文链接：http://ImkE.gbmtuh.asia
+
+原标题：golang 简易埋点日志上报实现
+简介：golang 接口返回统一封装工具，封装 Go 接口统一返回工具，标准化成功失败返回结构体。
+ | 原文链接：http://iCgA.gbmtuh.asia
+
+原标题：前端权限路由动态生成实现
+简介：磁盘 inode 耗尽文件创建失败，排查磁盘 inode 占用，清理大量小文件，恢复文件创建能力。
+ | 原文链接：http://e8c6.gbmtuh.asia
+
+原标题：Troubleshoot：批量导入数据，事务过大回滚日志暴涨
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：http://a4Y2.gbmtuh.asia
+
+原标题：﻿【GettingStarted】从零搭建本地开发环境完整指南
+简介：golang http MaxHeaderBytes 限制请求头，设置 http 最大请求头大小，防止超大 header 攻击。
+ | 原文链接：http://W0Uy.gbmtuh.asia
+
+原标题：快速上手阅读开源项目源码的入门思路
+简介：nodejs 数据库连接池配置调优，调优 Node 数据库连接池参数，平衡性能与资源占用，避免连接耗尽。
+ | 原文链接：http://SwQu.gbmtuh.asia
+
+原标题：线上异常：接口偶发超时，完整定位过程记录
+简介：读懂开源项目 README 实用技巧，教你快速解析开源项目说明文档，提取安装、运行、配置关键信息，快速上手项目。
+ | 原文链接：http://OsMq.gbmtuh.asia
+
+原标题：数据库分表存储大表优化方案
+简介：golang nil channel 阻塞特性，nil channel 读写永久阻塞，理解 nil channel 行为做逻辑控制。
+ | 原文链接：http://KoIm.gbmtuh.asia
+
+原标题：部署实践：多实例服务部署无状态改造
+简介：CI/CD 流水线自动构建部署落地，搭建完整 CI/CD 流水线，代码提交自动构建、测试、部署到目标环境。
+ | 原文链接：http://GkEi.gbmtuh.asia
+
+原标题：方案设计：分布式锁失效风险架构层面规避
+简介：防火墙 IP 白名单回调接口放行，配置防火墙白名单，放行第三方回调服务器 IP，接收回调请求正常。
+ | 原文链接：http://CgAe.gbmtuh.asia
+
+原标题：性能笔记：HTTP连接复用性能优化实践
+简介：golang go 程序守护进程实现思路，go 程序不做 daemon 化，依靠 systemd pm2 k8s 实现进程守护。
+ | 原文链接：http://86a4.gbmtuh.asia
+
+原标题：golang 项目 go mod 依赖管理
+简介：golang 负载均衡轮询加权轮询实现，手写负载均衡算法，轮询、加权轮询分发请求到后端节点。
+ | 原文链接：http://Y2W0.gbmtuh.asia
+
+原标题：效率笔记：GitWorkflow团队协作规范模板
+简介：golang go 模板执行错误捕获，捕获模板执行错误，防止模板错误直接返回空白页面。
+ | 原文链接：http://UySw.gbmtuh.asia
+
+原标题：图片上传预览格式大小处理
+简介：css 变量主题切换方案实现，使用 CSS 变量实现网页主题切换，多套主题样式快速切换无需大量 CSS。
+ | 原文链接：http://QuOs.gbmtuh.asia
+
+原标题：golang 系统设计 monorepo 仓库管理方案
+简介：手写简易 ORM 理解对象映射，手写极简 ORM 示例，理解对象与数据库表字段映射底层原理。
+ | 原文链接：http://MqKo.gbmtuh.asia
+
+原标题：Practice：模拟磁盘满，验证服务降级表现
+简介：golang nats 轻量消息队列 go 开发，nats 高性能轻量消息系统，发布订阅模式异步解耦业务。
+ | 原文链接：http://ImGk.gbmtuh.asia
+
+原标题：快速上手搭建简易内网测试服务
+简介：K8s 镜像拉取网络故障修复，排查 K8s 集群镜像拉取网络问题，配置镜像源，恢复镜像正常拉取。
+ | 原文链接：http://EiCg.gbmtuh.asia
+
+原标题：Issue：文件编码混合GBKUTF‑8乱码随机出现
+简介：golang go 模板缓存预编译模板，预编译 html 模板，程序启动加载，避免每次请求解析模板损耗性能。
+ | 原文链接：http://Ae8b.gbmtuh.asia
+
+原标题：坑点：gitcherry‑pick引入不兼容代码
+简介：golang prometheus client 业务埋点实操，prometheus client‑go 业务埋点，计数器、仪表盘、直方图指标开发。
+ | 原文链接：http://5Z3X.gbmtuh.asia
+
+原标题：Performance：避免大报文，减少内存占用优化
+简介：nodejs http 服务性能调优实战，调优 Node HTTP 服务内核参数，连接复用，提升接口并发处理能力。
+ | 原文链接：http://1VzT.gbmtuh.asia
+
+原标题：Git 分支管理多人协作实战教程
+简介：golang 反向代理 http 服务开发，手写简易 http 反向代理，转发请求，修改请求头响应头。
+ | 原文链接：http://RvPt.gbmtuh.asia
+
+原标题：性能复盘：慢查询日积月累拖垮数据库优化
+简介：golang 大文件读取内存优化，Go 流式读取大文件，分块处理，避免大文件一次性加载全部到内存。
+ | 原文链接：http://NrLp.gbmtuh.asia
+
+原标题：文件句柄上限调整上传随机失败
+简介：golang 性能压测 wr 工具实操指南，wr 压测工具对 Go 接口压测，观察 QPS 延迟，定位接口性能瓶颈。
+ | 原文链接：http://JnHl.gbmtuh.asia
+
+原标题：缓存穿透防护保护数据库
+简介：golang minio 私有对象存储开发，minio s3 对象存储，bucket 管理，文件上传下载权限设置。
+ | 原文链接：http://FjDh.gbmtuh.asia
+
+原标题：分布式任务调度集群原型开发
+简介：golang io.LimitReader 限制读取字节数，LimitReader 限制最大读取，防止读取超大数据。
+ | 原文链接：http://Bf9d.gbmtuh.asia
+
+原标题：golang 表单文件大小限制配置
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：http://7b5Z.gbmtuh.asia
+
+原标题：Hands‑on：搭建OAuth2简易授权服务Demo
+简介：vue pinia 状态管理实战教程，Pinia 完整实战示例，实现状态定义修改，模块拆分替代 Vuex。
+ | 原文链接：http://3X1V.gbmtuh.asia
+
+原标题：正则表达式优化 CPU 占满问题
+简介：服务器时钟同步任务错乱修复，配置服务器 NTP 时间同步，保证集群所有机器时间保持一致。
+ | 原文链接：http://zTxR.gbmtuh.asia
+
+原标题：golang 系统设计消息队列解耦削峰
+简介：nodejs 消息队列消费服务开发，Node 开发消息队列消费端，监听队列消息执行业务逻辑，异步解耦业务。
+ | 原文链接：http://vPtN.gbmtuh.asia
+
+原标题：Troubleshooting：k8s镜像拉取失败镜像仓库网络问题
+简介：golang cgo 内存管理 C 与 Go 内存，区分 Go 内存 C 堆内存，防止 cgo 内存泄漏，正确释放 C 内存。
+ | 原文链接：http://rLpJ.gbmtuh.asia
+
+原标题：新手快速上手 Git 版本控制实操指南
+简介：golang 数据库连接泄露排查，定位 Go 数据库连接泄露，连接没有归还池，导致连接耗尽报错。
+ | 原文链接：http://HlFj.gbmtuh.asia
+
+原标题：golang redis 计数器防超卖示例
+简介：golang sync.Once 只执行一次，sync.Once 做单例初始化，保证代码只执行一次，并发安全。
+ | 原文链接：http://DhBf.gbmtuh.asia
+
+原标题：golang 系统设计接口防刷 ip 限流实现
+简介：golang GC 频繁 STW 停顿优化，减少小对象分配，调整 GOGC，降低 GC 停顿对接口延迟影响。
+ | 原文链接：http://9d7b.gbmtuh.asia
+
+原标题：golang 系统设计防爬虫简单策略
+简介：golang 读写分离 gorm 实现主从切换，gorm 配置主库写入从库查询，读写分离分担数据库查询压力。
+ | 原文链接：http://5Z3X.gbmtuh.asia
+
+原标题：DNS 解析异常第三方调用故障
+简介：业务错误码体系设计方案，设计项目统一错误码，区分不同业务异常，标准化错误返回，便于前端识别处理。
+ | 原文链接：http://1VzT.gbmtuh.asia
+
+原标题：golang k8s 节点污点容忍度配置
+简介：golang net.Listener 包装自定义监听器，包装 Listener 做连接计数、连接拦截，扩展网络能力。
+ | 原文链接：http://xRvP.gbmtuh.asia
+
+三、实战开发｜Practice
+原标题：排错：多实例部署session共享失效登录失效
+简介：golang websocket 服务端开发，Go 实现 WebSocket 服务端，处理连接、消息收发，实现长连接服务。
+ | 原文链接：http://tNrL.gbmtuh.asia
+
+原标题：踩坑记录：端口被占用导致服务启动失败
+简介：golang context 上下文传参讲解，讲解 Context 使用场景，传递元数据、控制协程超时取消，规范协程控制。
+ | 原文链接：http://pJnH.gbmtuh.asia
+
+原标题：golang cron 定时任务防并发执行
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：http://lFjD.gbmtuh.asia
+
+原标题：golang 系统设计分库分表 id 全局生成策略
+简介：golang 分布式追踪全链路日志打印，日志打印 traceId，各个服务日志可串联，排查跨服务调用问题。
+ | 原文链接：http://gAec.gbmtuh.asia
+
+原标题：golang 系统设计代码安全审计简单思路
+简介：服务启动依赖顺序配置正确，配置服务启动依赖关系，保证依赖服务就绪之后再启动当前业务服务。
+ | 原文链接：http://6a4Y.gbmtuh.asia
+
+原标题：golang 系统设计开源项目 issue pr 模板编写
+简介：nodejs 内存溢出问题排查修复，Node.js 程序 OOM 排查流程，定位内存泄露，调整内存限制修复崩溃。
+ | 原文链接：http://2W0U.gbmtuh.asia
+
+原标题：golang 系统设计 monorepo 仓库管理方案
+简介：异步异常捕获避免进程崩溃，捕获异步代码内部抛出异常，防止未捕获异常直接导致整个进程退出。
+ | 原文链接：http://ySwQ.gbmtuh.asia
+
+原标题：nodejs 集成测试业务流程编写
+简介：数值类型溢出错乱问题修复，选择合适数值存储类型，处理数值溢出，避免数据存储错乱结果异常。
+ | 原文链接：http://uOsM.gbmtuh.asia
+
+原标题：Performance：缓存策略优化，降低数据库压力
+简介：golang cpu pprof 性能分析实操，使用 pprof 采集 CPU 性能数据，定位 CPU 高占用函数，做性能优化。
+ | 原文链接：http://qKoI.gbmtuh.asia
+
+原标题：golang 消息队列 kafka 消费开发
+简介：golang gitlab ci go 项目流水线编写，gitlab ci 流水线执行单元测试、静态检查、构建推送镜像。
+ | 原文链接：http://mGkE.gbmtuh.asia
+
+原标题：golang mysql 读写分离简单实现
+简介：程序信号中断退出处理逻辑，捕获系统中断信号，执行资源释放、关闭连接，实现程序优雅退出。
+ | 原文链接：http://iCgA.gbmtuh.asia
+
+原标题：golang docker compose 完整语法
+简介：golang go‑zero 缓存自动击穿防护，go‑zero 缓存组件自带缓存击穿防护，减少缓存层故障。
+ | 原文链接：http://e8c6.gbmtuh.asia
+
+原标题：Practice：实现业务id生成不连续有序ID方案
+简介：接口限流逻辑简单模拟实现，编写简易限流逻辑，限制接口访问频次，保护服务，避免短时间大量请求压垮系统。
+ | 原文链接：http://a4Y2.gbmtuh.asia
+
+原标题：排错：多实例部署session共享失效登录失效
+简介：golang json 解析未知动态 json 结构，解析到 map [string] any 处理未知 json，动态读取字段。
+ | 原文链接：http://W0yS.gbmtuh.asia
+
+原标题：前端大文件分片上传完整方案
+简介：RPC 报文大小上限调优大请求，调大 RPC 框架报文最大限制，支持传输大体积请求报文不被截断。
+ | 原文链接：http://wQuO.gbmtuh.asia
+
+原标题：前端 pdf 预览渲染方案对比
+简介：K8s 镜像拉取网络故障修复，排查 K8s 集群镜像拉取网络问题，配置镜像源，恢复镜像正常拉取。
+ | 原文链接：http://sMqK.gbmtuh.asia
+
+原标题：golang 系统设计单元测试 mock 外部依赖技巧
+简介：CI 构建缓存加速编译速度，开启 CI 流水线依赖缓存，复用上一次构建依赖包，缩短流水线构建耗时。
+ | 原文链接：http://oImG.gbmtuh.asia
+
+原标题：golang github actions 缓存依赖提速
+简介：golang multipart 表单文件上传解析，服务端解析 multipart 表单，获取上传文件与表单字段。
+ | 原文链接：http://kEiC.gbmtuh.asia
+
+原标题：golang 大文件 http 下载服务
+简介：GET POST 接口请求参数处理，讲解两种请求方式参数传递区别，演示参数接收、解析、校验，适配不同接口调用场景。
+ | 原文链接：http://gAe8.gbmtuh.asia
+
+原标题：入门实践：简单图片上传预览本地demo
+简介：hosts 配置本地回环访问修复，修改 hosts 配置，修复 127.0.0.1 解析异常，本地服务访问失败问题。
+ | 原文链接：http://c6a4.gbmtuh.asia
+
+原标题：安全笔记：文件下载接口路径校验安全
+简介：Git 标签版本标记发布管理，使用 Git 标签标记项目版本，打标签推送远程，用于版本发布、版本回溯。
+ | 原文链接：http://Y2W0.gbmtuh.asia
+
+原标题：入门实践：本地简单代理服务搭建
+简介：golang grpc 客户端流上传数据，客户端流式请求，客户端分批上传数据到服务端，适合大文件传输。
+ | 原文链接：http://UySw.gbmtuh.asia
+
+原标题：DevOps：容器健康探针livenessreadiness配置
+简介：golang nacos go 客户端配置服务发现，nacos‑go 对接 nacos，配置管理、微服务注册发现。
+ | 原文链接：http://QuOs.gbmtuh.asia
+
+原标题：golang 系统设计代码评审 checklist 清单
+简介：系统字符集统一乱码修复，统一数据库、程序、操作系统字符集，解决中文乱码显示异常问题。
+ | 原文链接：http://MKoI.gbmtuh.asia
+
+原标题：golang 系统设计 docker compose 本地开发环境搭建
+简介：golang fasthttp 服务开发完整示例，fasthttp 搭建 http 服务，路由、参数读取、响应返回完整业务。
+ | 原文链接：http://mGjD.gbmtuh.asia
+
+原标题：axios 二次封装请求拦截处理
+简介：axios 二次封装请求拦截处理，对 axios 做二次封装，统一请求拦截响应拦截，处理错误、token 自动刷新。
+ | 原文链接：http://hBf9.gbmtuh.asia
+
+原标题：Security：SSRF服务端请求伪造漏洞防御
+简介：Git 误删提交代码恢复找回，使用 Git reflog 工具找回被误删除提交记录，恢复误删除代码。
+ | 原文链接：http://d7b5.gbmtuh.asia
+
+原标题：实践：OpenAPI自动生成接口文档完整实践
+简介：golang prometheus 指标埋点开发，业务埋点计数器、仪表盘、直方图，对接 prometheus 采集监控指标。
+ | 原文链接：http://Z3X1.gbmtuh.asia
+
+原标题：golang 系统设计监控体系指标分类方法论梳理
+简介：golang benchmark 参数‑bench‑mem 统计内存分配，benchmark 开启内存统计，观察内存分配次数大小。
+ | 原文链接：http://VzTx.gbmtuh.asia
+
+原标题：前端错误监控上报系统搭建
+简介：前端虚拟列表大数据渲染优化，实现虚拟滚动列表，只渲染可视区域 DOM，上万条数据页面流畅渲染。
+ | 原文链接：http://RvPt.gbmtuh.asia
+
+原标题：接口限流逻辑简单模拟实现
+简介：golang wasm 性能优化与内存管理，wasm 内存分配释放，减少内存拷贝，优化浏览器端性能。
+ | 原文链接：http://NrLp.gbmtuh.asia
+
+原标题：golang md5 sha 加密工具实现
+简介：golang testify mock 模拟接口，mock 接口生成 mock 对象，单元测试模拟外部依赖行为。
+ | 原文链接：http://JnHl.gbmtuh.asia
+
+原标题：项目实践：消息队列消息堆积模拟处理实践
+简介：golang 容器信号转发处理问题修复，docker/k8s 正确转发 SIGTERM 信号，保证 go 程序收到信号优雅退出。
+ | 原文链接：http://FjDh.gbmtuh.asia
+
+原标题：golang 系统设计开源项目维护简单经验分享
+简介：nodejs 流处理大文件不占内存，使用 Node.js 流处理超大文件，边读边写，不需要全部加载进内存。
+ | 原文链接：http://f9d7.gbmtuh.asia
+
+原标题：OOMKilled 容器被杀完整排查
+简介：golang 子进程执行命令标准流处理，exec.Command 执行外部命令，处理 stdout stderr，防止缓冲区阻塞卡死。
+ | 原文链接：http://b5Z3.gbmtuh.asia
+
+原标题：golang 系统设计滑动窗口限流代码示例
+简介：golang gorm 事务手动回滚提交，手动控制事务流程，业务异常主动回滚，保障数据操作原子性。
+ | 原文链接：http://X1Vz.gbmtuh.asia
+
+原标题：Architecture：API设计RESTful最佳实践与反模式
+简介：数据库死锁成因规避方案，讲解数据库死锁产生条件，给出业务层面规避手段，减少死锁事件发生。
+ | 原文链接：http://TxRv.gbmtuh.asia
+
+原标题：开发记录：短信发送服务封装，失败重试策略
+简介：WSL 搭建 Windows Linux 开发环境，配置 WSL 环境，在 Windows 系统使用 Linux 工具链，适配 Linux 开发项目。
+ | 原文链接：http://PtNr.gbmtuh.asia
+
+原标题：react 状态管理方案选型对比
+简介：nodejs 多进程任务分发处理，多进程拆分处理 CPU 密集任务，主进程分发任务，利用多核提升处理速度。
+ | 原文链接：http://LpJn.gbmtuh.asia
+
+原标题：开发复盘：百万数据批量导入数据库优化方案
+简介：golang go xml 解析生成 xml 文档，encoding/xml 解析 xml，结构体标签映射 xml 节点属性。
+ | 原文链接：http://HlFj.gbmtuh.asia
+
+四、架构设计｜Architecture
+原标题：全量回归测试提升代码质量
+简介：golang go 领域驱动 DDD 项目分层，go 项目 DDD 分层架构，领域层应用层基础设施层划分业务代码。
+ | 原文链接：http://DhBf.gbmtuh.asia
+
+原标题：Troubleshooting：防火墙安全组拦截访问请求
+简介：golang context.WithValue 传递元数据，WithValue 只传 traceId 鉴权元数据，不要传业务大对象。
+ | 原文链接：http://9d7b.gbmtuh.asia
+
+原标题：实践：前后端时间格式统一规范落地实践
+简介：前端骨架屏提升页面体验，实现页面骨架屏，数据未加载完成展示占位，优化页面白屏感知体验。
+ | 原文链接：http://5Z3X.gbmtuh.asia
+
+原标题：文件分片上传断点续传功能
+简介：golang gin 静态资源访问配置，Gin 配置静态资源目录，直接对外提供静态文件访问服务。
+ | 原文链接：http://VzTx.gbmtuh.asia
+
+原标题：HelloMarkdown：GitHubMarkdown完整语法速查
+简介：golang 云存储 s3 协议对象存储，go s3 客户端，兼容 minio 阿里云 oss，实现文件上传下载签名访问。
+ | 原文链接：http://RvPt.gbmtuh.asia
+
+原标题：项目实践：搭建监控大盘查看系统关键指标
+简介：golang gorm ORM 数据库操作，GORM 实操数据库 CRUD，模型定义，关联查询，简化 Go 数据库开发。
+ | 原文链接：http://NrLo.gbmtuh.asia
+
+原标题：golang 单元测试 mock http 请求
+简介：golang go json 序列化自定义字段，json 标签控制字段名称、忽略字段、omitempty 空值忽略。
+ | 原文链接：http://ImGk.gbmtuh.asia
+
+原标题：项目实践：接口压测，逐步加压观察系统表现
+简介：golang go work 多模块本地开发，go work 多模块本地同时开发，本地模块互相引用，无需推送仓库。
+ | 原文链接：http://EiCg.gbmtuh.asia
+
+原标题：架构笔记：海量消息堆积架构处理能力设计
+简介：golang os 打开文件 O_APPEND O_CREATE 标志，OpenFile 标志位，控制文件创建追加截断行为。
+ | 原文链接：http://Ae8c.gbmtuh.asia
+
+原标题：运维笔记：系统内核参数调优生产服务器
+简介：golang 故障演练服务模拟超时报错，程序模拟接口超时、报错，做混沌测试验证熔断降级有效性。
+ | 原文链接：http://6a4Y.gbmtuh.asia
+
+原标题：避坑：版本升级之后项目直接无法启动
+简介：golang mysql 慢查询日志程序采集解析，程序读取解析 mysql 慢查询日志，统计慢 SQL 做监控告警。
+ | 原文链接：http://2W0U.gbmtuh.asia
+
+原标题：nodejs 消息队列消费服务开发
+简介：golang 日志输出 stdout 标准输出规范，容器环境日志输出到 stdout，由容器平台统一采集日志文件。
+ | 原文链接：http://ySwQ.gbmtuh.asia
+
+原标题：慢查询分析索引调优数据库实战
+简介：golang 故障演练服务模拟超时报错，程序模拟接口超时、报错，做混沌测试验证熔断降级有效性。
+ | 原文链接：http://uOsq.gbmtuh.asia
+
+原标题：前端工程化 webpack 打包优化
+简介：golang 分库分表简单路由实现，简易分表路由逻辑实现，根据分片 key 计算分片位置，数据路由写入。
+ | 原文链接：http://KoIm.gbmtuh.asia
+
+原标题：线上异常：时间时区问题，定时任务执行偏移
+简介：手写简易 MQ 理解消息存储消费，手写极简消息队列 Demo，理解消息存储、投递、消费完整流程。
+ | 原文链接：http://GkEi.gbmtuh.asia
+
+原标题：golang 系统设计数据库基准压测简单思路
+简介：灰度发布策略服务平滑升级，实现灰度发布逻辑，流量逐步切到新版本，出现问题快速回滚旧版本。
+ | 原文链接：http://CgAe.gbmtuh.asia
+
+原标题：golang 系统设计缓存过期时间设置原则梳理
+简介：nodejs jwt 登录鉴权完整示例，Node 实现 JWT 登录鉴权，登录签发令牌，接口校验令牌身份。
+ | 原文链接：http://8c6a.gbmtuh.asia
+
+原标题：实战：Nginx负载均衡多种策略配置实践
+简介：全局时间标准统一逻辑错乱修复，全服务统一使用同一时间标准，不要混用本地时间 UTC，修复时间逻辑 bug。
+ | 原文链接：http://4Y2W.gbmtuh.asia
+
+?
